@@ -1,0 +1,9 @@
+black @ file:///C:/b/abs_232028unhf/croot/black_1712698539555/work
+flake8 @ file:///C:/b/abs_caud66drfv/croot/flake8_1708965316778/work
+isort @ file:///tmp/build/80754af9/isort_1628603791788/work
+mypy @ file:///C:/b/abs_3880czibje/croot/mypy-split_1708366584048/work
+mypy-extensions @ file:///C:/b/abs_8f7xiidjya/croot/mypy_extensions_1695131051147/work
+pre-commit @ file:///C:/b/abs_30vgkpzvpb/croot/pre-commit-split_1694777024931/work
+pyflakes @ file:///C:/b/abs_b6t1aazq2e/croot/pyflakes_1708963020907/work
+PyYAML @ file:///C:/b/abs_782o3mbw7z/croot/pyyaml_1698096085010/work
+virtualenv @ file:///C:/b/abs_58qnupt4s8/croot/virtualenv_1679038266522/work

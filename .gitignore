@@ -5,7 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
-
+.black
+.flake8
+.pre-commit-config.yaml
+isort.cfg
 # Distribution / packaging
 .Python
 build/
