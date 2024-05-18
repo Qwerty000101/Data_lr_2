@@ -7,7 +7,6 @@ __pycache__/
 *.so
 .black
 .flake8
-.pre-commit-config.yaml
 isort.cfg
 # Distribution / packaging
 .Python
